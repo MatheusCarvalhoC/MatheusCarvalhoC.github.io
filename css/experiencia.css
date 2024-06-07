@@ -102,4 +102,9 @@
   .empresa {
     grid-template-columns: 1fr;
   }
+  .empresa-profissao {
+    text-align: left;
+    left: -5px;
+    padding: 10px 0px;
+  }
 }
